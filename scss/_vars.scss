@@ -1,0 +1,33 @@
+:root {
+  // base
+
+  // colors
+  --accent-color: #5c62ec;
+  --purple-color: #324ab2;
+  --black-color: #171718;
+  --white-color: #fff;
+  --dark-color: #000;
+  --gray-color: #171717;
+  --grey-color: #f7f7f7;
+  --border-color: #e0e0e0;
+  --darkness-color: #26292d;
+
+  // Light theme //
+  --page-bg: var(--white-color);
+  --text-color: var(--black-color);
+  --title-1: var(--dark-color);
+  --project-card-bg: var(--white-color);
+  --project-card-text: var (--black-color);
+  --box-shadow: 0px 5px 35px rgba(0, 0, 0, 0.25);
+  --header-bg: var(--white-color);
+  --header-logo: var(--black-color);
+  --about-svg: var(--dark-color);
+  --about-text: var(--dark-color);
+  --about-span: var(--dark-color);
+  --about-border: var(--dark-color);
+  --about-bg: var(--white-color);
+  --about-btn: var(--dark-color);
+  --about-hover: var(--grey-color);
+  --footer-icon: var(--dark-color);
+  --border-line: var(--border-color);
+}
